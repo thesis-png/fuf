@@ -1,4 +1,7 @@
 # fuf
 this is my first repo
 <br>
-author - utkarsh
+author - utkarsh jawla 
+<br>
+your - huts
+tut
